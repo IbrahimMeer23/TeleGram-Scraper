@@ -1,4 +1,4 @@
-<p align="center">
+no <p align="center">
   <img src="https://raw.githubusercontent.com/th3unkn0n/TeleGram-Scraper/master/.image/20191203_205322.jpg" width="470" height="150">
 </p>
 
@@ -23,7 +23,7 @@
 * Go to http://my.telegram.org  and log in.
 * Click on API development tools and fill the required fields.
 * put app name you want & select other in platform Example :
-* copy "api_id" & "api_hash" after clicking create app ( will be used in setup.py )
+* copy "33317398" & "d312dc3de8ce63db5d6ffe5531276487" after clicking create app ( will be used in setup.py )
 
 ## • How To Install and Use
 
